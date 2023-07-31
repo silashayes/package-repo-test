@@ -7,8 +7,7 @@ setup(
     author_email = 'silasjhayes@gmail.com',
     packages = ['normalizer'],
     url = 'https://github.com/silashayes/booklover',
-    description = 'A package for normalizing’,
-    long_description = open('README.txt').read(),
+    description = 'A package for normalizing',
     install_requires = [
         'numpy']
 )
